@@ -17,7 +17,7 @@ Once your customer is ready to pay, use checkout.js to open the Magpie hosted Ch
 **Installing and cloning manually**
 
 ```
-git clone https://github.com/flairlabs/accept-payment-checkout-modal
+git clone https://github.com/flairlabs/accept-payment-checkout-modal.git
 ```
 
 Rename and move the [`.env.example`](.env.example) file into a file named
