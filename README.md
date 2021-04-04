@@ -12,6 +12,14 @@ experience for your customers.
 
 Once your customer is ready to pay, use checkout.js to open the Magpie hosted Checkout dialog. 🥳
 
+## Demo
+
+[https://sample-magpie-checkout-app.herokuapp.com](https://sample-magpie-checkout-app.herokuapp.com/)
+
+The demo is running in test mode -- use `4242 4242 4242 4242` as a test card number with any CVC + future expiration date.
+
+Read more about testing on Magpie at [https://magpie.im/documentation/#section/Test-Cards](https://magpie.im/documentation/#section/Test-Cards).
+
 ## How to run locally
 
 **Installing and cloning manually**
