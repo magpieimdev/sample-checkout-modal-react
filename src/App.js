@@ -102,9 +102,9 @@ function App() {
       <div className="banner">
         <span>
           {'This is a '}
-          <a href="https://github.com/flairlabs/accept-payment-checkout-modal">Magpie Sample</a>
+          <a href="https://github.com/magpieimdev/sample-checkout-modal-react">Magpie Sample</a>
           {' accepting payments with Magpie Checkout. '}
-          <a href="https://github.com/flairlabs/accept-payment-checkout-modal">View code on GitHub</a>
+          <a href="https://github.com/magpieimdev/sample-checkout-modal-react">View code on GitHub</a>
         </span>
       </div>
     </div>
