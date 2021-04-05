@@ -25,7 +25,7 @@ Read more about testing on Magpie at [https://magpie.im/documentation/#section/T
 **Installing and cloning manually**
 
 ```
-git clone https://github.com/flairlabs/accept-payment-checkout-modal.git
+git clone https://github.com/magpieimdev/sample-checkout-modal-react.git
 ```
 
 Rename and move the [`.env.example`](.env.example) file into a file named
